@@ -1,0 +1,44 @@
+NotEmpty.user.firstname			= First Name is required!
+NotEmpty.user.lastname			= Surname is required!
+NotEmpty.user.username 			= UserName is required!
+NotEmpty.user.password 			= Password is required!
+Length.user.password 			= Password must be between 8 and 12
+
+NotEmpty.login.username	= UserName is required!
+NotEmpty.login.password	= Passwords is required!
+
+NotEmpty.UserLogin.f_name = First Name is required!
+NotEmpty.UserLogin.l_name = Last Name is required!
+
+NotEmpty.UserLogin.username = User Name is required!
+NotEmpty.UserLogin.date_of_birth = Date Of Birth is required!
+NotEmpty.UserLogin.address = Address is required!
+NotEmpty.UserLogin.city = City is required!
+NotEmpty.UserLogin.county = County is required!
+NotEmpty.UserLogin.country = Country is required!
+NotEmpty.UserLogin.l_name = Last Name is required!
+NotEmpty.UserLogin.l_name = Last Name is required!
+NotEmpty.UserLogin.password	= Passwords is required!
+
+NotEmpty.leave.leave_name = Leave Name is required.!
+NotEmpty.leave.leave_colour_code = Leave Colour Code is required.!
+DecimalMin.leave.quota=Please input proper value for quota...!!!
+
+NotEmpty.Groups.selectedvalues = You must select at least one checkbox..!
+NotEmpty.dept.department_code = Department Code is required.!
+
+NotEmpty.public_holiday.holiday_date=Holiday Date can't be empty...!!!
+NotEmpty.public_holiday.description=Holiday Description can't be empty...!!!
+
+NotEmpty.UserLogin.selectedgroups	= Please select atleast one Group..!!
+
+
+NotEmpty.User_leave.holiday_startdate	= Holiday Start Date is required.!!
+NotEmpty.User_leave.basic_holiday_quota	= Basic Holiday Quota should not be blank or zero.!!
+
+NotEmpty.Daily_Schedule.daily_schedule_name	= Daily Schedule Name should not be blank..!!
+NotEmpty.Daily_Schedule.start_time= Start Time should not be blank..!!
+NotEmpty.Daily_Schedule.end_time= End Time should not be blank..!!
+
+NotEmpty.Weekly_Schedule.schedule_name	= Schedule Name should not be blank..!!
+NotEmpty.Weekly_Schedule.scheduled_hours= Schedule Hours should not be blank or zero.!!

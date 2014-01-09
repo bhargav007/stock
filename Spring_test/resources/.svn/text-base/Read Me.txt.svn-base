@@ -1,0 +1,5 @@
+Place below libraries/jar in Apache tomcat 7's lib folder.
+guava-11.0.1.jar
+slf4j-api-1.6.1.jar
+mysql-connector-java-5.1.6.jar
+bonecp-0.8.0-alpha1.jar
